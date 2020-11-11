@@ -5,7 +5,7 @@ Pod::Spec.new do |spec|
   spec.summary      = "A video player tracker to know how the user interacts with the video."
   spec.description  = "The video player tracker is a widget used for get information of how the user interacts with the videos the application provide."
 
-  spec.homepage     = "https://github.com/emasso/PlayerTracker.git"
+  spec.homepage     = "https://github.com/emasso/PlayerTracker"
   spec.license      = "MIT"
   spec.author       = "Elisabet Massó"
   spec.platform     = :ios
